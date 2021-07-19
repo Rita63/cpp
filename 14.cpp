@@ -1,9 +1,7 @@
 //template class and functions
 
 #include <iostream>
-
 using namespace std;
-
 template <class T>       //template class
 class Rectangle{
    T length ;           //data member
